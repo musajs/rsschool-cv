@@ -27,11 +27,13 @@ function multiply(a, b){
 ```
 
 * Education:
-- DGUNH - programming in a computer systems
-- Succes - basic course of AutoCAD
-- Certifications of CRM
+    - DGUNH - programming in a computer systems
+    - Succes - basic course of AutoCAD
+    - Certifications of CRM
 
 English level - A2 
+
+===============
 
 ************
 * Contacts:
