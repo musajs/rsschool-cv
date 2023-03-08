@@ -33,8 +33,6 @@ function multiply(a, b){
 
 English level - A2 
 
-===============
-
 ************
 * Contacts:
     + phone: +7(989)485 63 44
