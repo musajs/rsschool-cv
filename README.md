@@ -1,2 +1,2 @@
 # rsschool-cv
-[CV]: https://musajs.github.io/rsschool-cv/cv "Ссылка на CV"
+[CV]: https://musajs.github.io/rsschool-cv/ "Ссылка на CV"
