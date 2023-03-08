@@ -1,4 +1,4 @@
-![Моё фото](https://sun7-9.userapi.com/impf/c851016/v851016611/1db199/G7kFFaI4t1U.jpg?size=960x720&quality=96&sign=e6a679ac01cd875d5e3b24a6679e13c2&type=album)
+![Моё фото](/images/me.jpg)
 
 ### **Джамилиев Муса**
 ************
