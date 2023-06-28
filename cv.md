@@ -1,6 +1,6 @@
 # Djamiliev Musa
 
-[Musa](/musa.jpg "Musa")
+<img src="musa.jpg" width="300">
 
 ### About me:
 
