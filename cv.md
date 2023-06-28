@@ -1,5 +1,7 @@
 # Djamiliev Musa
 
+[Musa](/musa.jpg "Musa")
+
 ### About me:
 
 I wanna improve programming skills for providing high quality service of CRM. To make new automation. To understand how works visible objects under coding.
