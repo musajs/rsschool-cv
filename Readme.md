@@ -1,2 +1,1 @@
-#testRepo
-git
+https://musajs.github.io/rsschool-cv/cv
